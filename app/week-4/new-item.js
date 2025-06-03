@@ -19,7 +19,7 @@ export default function NewItem() {
 
   return (
     <div className="flex items-center justify-center min-h-screen">
-      <div className="p-8 rounded-lg shadow-lg">
+      <div className="p-8 rounded-lg shadow-lg background-gray-200">
         <h2 className="text-2xl font-bold text-center mb-6 text-green-500">
           Add New Item
         </h2>
