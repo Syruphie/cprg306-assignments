@@ -38,7 +38,7 @@ export default function LandingPage() {
             
             <div className="space-y-3">
               <Link
-                href="/week-9/shopping-list"
+                href="/week-9/shopping-List"
                 className="block w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-md transition-colors text-center"
               >
                 Go to Shopping List
